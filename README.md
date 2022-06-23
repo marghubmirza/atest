@@ -1,4 +1,4 @@
-![Alt text](./data/uva-logo-inline.png?raw=true "UVA")
+![Alt text](col.jpeg?raw=true "UVA")
 # UVA M.S. Business Analytics
 
 This will eventually turn into a git repository to house all the code needed to complete the projects.
